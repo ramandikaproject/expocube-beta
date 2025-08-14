@@ -13,4 +13,4 @@ Also can give feedback about what features should be added.
 
 
 
-Thanks, happy experimenting.
+Thanks you, happy experimenting.
